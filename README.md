@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/Roman5675/badges/small)
+[![codewars](https://www.codewars.com/users/Roman5675/badges/small)]
 
 <!--
 **Roman5675/Roman5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
