@@ -9,7 +9,7 @@
 
 [![codewars](https://www.codewars.com/users/Roman5675/badges/small)](https://www.codewars.com/users/Roman5675) 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roman5675)](https://github.com/Roman5675/github-readme-activity-graph)
+[![Roman5675 github activity graph](https://activity-graph.herokuapp.com/graph?username=Roman5675)](https://github.com/Roman5675/github-readme-activity-graph)
 
 <!--
 **Roman5675/Roman5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
