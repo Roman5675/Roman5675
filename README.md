@@ -9,6 +9,8 @@
 
 [![codewars](https://www.codewars.com/users/Roman5675/badges/small)](https://www.codewars.com/users/Roman5675) 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roman5675&theme=solarized_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roman5675&theme=solarized_dark)
 
 <!--
