@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning JavaScript
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![codewars](https://www.codewars.com/users/Roman5675/badges/small)](https://www.codewars.com/users/Roman5675) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roman5675&theme=solarized_dark)
 
