@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, my name's Roman 👋
 
+- 🔭 I’m currently working on portfolio
+- 🌱 I’m currently learning JavaScript
 <!--
 **Roman5675/Roman5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
